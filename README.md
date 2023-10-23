@@ -1,5 +1,6 @@
 # Movies Application 
 <p>This demonstration was crafted for the Google Developer Student Club - FSS Sfax event, where I had the privilege of presenting an introduction to Android development. During my presentation, I shared insights on becoming a proficient developer and securing opportunities with tech companies.</p>
+<p><img border="0" src="https://github.com/AymenSoft/Workshop-GoogleDeveloperStudentClub-FSSSfax/blob/master/screenshots/banner.jpeg" height="450"></p>
 <p>- simple application to show list of last movies</p>
 <p>- this application use Retrofit to get movies list from server</p>
 <p>- the application start with a SplashScreen and test internet connexion if not exist it shows a popup</p>
